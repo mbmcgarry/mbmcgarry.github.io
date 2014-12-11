@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+	  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans:600,600italic,700,400' rel='stylesheet' type='text/css'>
+		<meta charset="utf-8"/>
+		<title>Meghan B. McGarry at Work</title>
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<link rel="stylesheet" media="all" href="css/maori.css"/>
+		<link rel="stylesheet" media="all" href="css/custom.css"/>
+		<meta name = "viewport" content = "initial-scale = .5">
+		
+		<script type="text/javascript" src="http://use.typekit.com/rds7nju.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+                <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+                <script type="text/javascript" src="js/supersized.2.0.js"></script>
+                <script type="text/javascript">$(function(){ $('#supersize').supersized();});</script>	
+                
+
+              </script>
+
+              <!--#include virtual="analytics.html" -->
+	</head>
+
+	<body>
+          <div id="supersize"><img src="images/background.jpg" /></div>
+          <div id="wrapper">
+          <section id="content">
+          <header> 
+                <h1>I am</h1>
+                <h2>a Postdoctoral Researcher <br>
+                </h2>
+	  </header>
+
+		<p>
+                ... at the <a href="http://wisc.edu/">University of 
+                  Wisconsin-Madison</a> in the <a 
+		  href="http://cnerg.github.io/">Computational Nuclear Engineering
+		  Research Group</a> (CNERG).
+		
+		I am funded as a fellow in the NNSA <a
+						     href="http://cvt.engin.umich.edu/">
+		    Consortium for Verification Technology</a> (CVT).
+
+                <h2>Currently</h2>
+                <p>
+                ... I am developing a model to compare the relative risk of 
+		<a href="http://en.wikipedia.org/wiki/Nuclear_material">nuclear
+		material</a> diversion in different fuel cycles using the 
+		<a href="http://fuelcycle.org/"> CYCLUS</a> 
+		nuclear fuel cycle simulator.
+                </p>
+
+                <h2>My research interest</h2>
+                <p>... 
+		  is at the interface between 
+		  <a href="http://en.wikipedia.org/wiki/Science_policy"> 
+		   science and policy</a>.  I seek to 
+		  provide technical analysis of policy-relevant issues, such 
+		  as creating a safe, emissions-free, sustainable nuclear fuel
+		  cycle with minimal risk of <a
+		    href="http://en.wikipedia.org/wiki/Nuclear_proliferation">
+		nuclear proliferation</a>.
+                 </p>
+
+                <h2>My Ph.D.</h2> 
+                <p>... in 
+                <a href="http://www.physics.wisc.edu/">experimental plasma physics</a> 
+                was received in 2013 from the <a 
+                  href="http://wisc.edu/">University of Wisconsin-Madison</a>.  
+                There, I worked with 
+                <a href="https://www.physics.wisc.edu/people/daniel-jdenhartog">Daniel den Hartog</a> 
+		and  <a href="http://paolo.franz.net/MST/mst_sxr.htm"> Paolo Franz</a> 
+		on the <a href="http://plasma.physics.wisc.edu/viewpage.php?id=mst"> Madison Symmetric Torus</a> to develop a 
+		<a href="http://en.wikipedia.org/wiki/X-ray"> soft x-ray</a> tomography
+		and double-filter diagnostic.  I used this diagnostic to study the 
+		<a href="http://en.wikipedia.org/wiki/Magnetic_confinement_fusion">
+		  magnetic confinement</a> and the electron temperature structure of high-current
+		 plasmas on MST.  After completing my PhD, I spent one
+		year as a postdoc at MST characterizing the
+		<a href="http://iopscience.iop.org/0741-3335/56/12/125018">effects of 
+		  impurities</a> on the x-ray
+		transmission properties of beryllium foils.
+                </p> 
+
+		<h2>My policy experience </h2>
+		<p> ... began at an International <a href="www.summersymposium.org">Summer Symposium</a> 
+		  for Science and World Affairs hosted by the <a href="http://www.ucsusa.org/">Union of Concerned Scientists</a>, 
+		  where I was introduced to the field of international security policy.  Since 
+		  that time, I have participated in two additional symposia, presenting original
+		  research in collaboration with 
+		  <a href="http://www.ucsusa.org/about/staff/staff/laura-grego.html#.VH-TSoW7lXo">Dr. Laura Grego</a>
+		  on the feasibility of developing a
+		  <a href="http://en.wikipedia.org/wiki/Directed-energy_weapon">high-powered microwave weapon</a> 
+		  for use as an <a href="http://en.wikipedia.org/wiki/Anti-satellite_weapon">anti-satellite</a> weapon in space.
+		  I have also written a white paper in collaboration with the 
+		    <a href="www.nrdc.org"> Natural Resources Defense Council </a> that examines the 
+		    recent progress of the <a href="https://lasers.llnl.gov/">
+		      National Ignition Facility</a> and the likelihood
+		    that it, as the most expensive attempt at 
+		    <a "href=http://en.wikipedia.org/wiki/Inertial_confinement_fusion"> inertial confinement fusion</a>, 
+		    will achieve ignition.
+		  </p>
+		  
+		  
+               <h2>My undergraduate degree</h2>
+		<p> 
+                ...is in physics and astrophysics from the 
+		<a href="http://physics.berkeley.edu">University of California, Berkeley.</a> 
+		While at Berkeley, I had a summer research fellowship
+		looking for optical signals from aliens with
+		<a href="http://setiathome.ssl.berkeley.edu/"> SETI</a>. I also spent one summer
+		in the <a href="http://www.nsf.gov/crssprgm/reu/"> REU</a>
+		astronomy program at the <a href="http://manoa.hawaii.edu/">
+		  University of Hawaii</a> at Manoa,
+		where I did simulations of low mass x-ray binary systems.
+
+		<h2>My research experience</h2>
+		<p>
+		  ... also includes three years as a data analyst for the 
+		  Science Mission Planning group at the 
+		  <a href="http://chandra.harvard.edu/"> Chandra X-ray 
+		  Observatory.</a>  As a mission planner, I scheduled
+		  observations and wrote code in <a href="https://www.perl.org/">
+		    Perl</a> to maintain related 
+		  websites and databases. I also researched the observational
+		  properties of <a href="http://en.wikipedia.org/wiki/Anomalous_X-ray_pulsar"> 
+		    Anomalous X-ray Pulsars.</a>  You can learn more about my hodgepodge
+		  assortment of previous work on my
+		  <a href="./cvita.pdf">CV</a>
+		    or in my <a href="./pubs.html">publications</a>.
+                </p> 
+
+   
+                <h2>I can be contacted</h2>
+		<p>
+                ... <a href="mailto:mcgarry.fc@gmail.com">via email</a> or in 
+                my office</a> 437 Engineering Research Building.
+		</p>
+
+		
+		<footer>
+			<small>forked from <br><a href="http://katyhuff.github.io/" title="Katy Huff">Katy Huff</a></small>
+		</footer>
+              </div>
+	</body>
+	
+</html>
